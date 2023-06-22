@@ -1,0 +1,23 @@
+.rightButton{
+    -fx-background-color: #fe9f0b;
+    -fx-text-fill: white;
+    -fx-border-width: 1px;
+    -fx-border-color: #4e4f59;
+}
+.upButton{
+    -fx-background-color: #838383;
+    -fx-text-fill: white;
+    -fx-border-width: 1px;
+    -fx-border-color: #4e4f59;
+}
+.numButton{
+    -fx-background-color: #737373;
+    -fx-text-fill: white;
+    -fx-border-width: 1px;
+    -fx-border-color: #4e4f59;
+}
+#mainWindow{
+    -fx-background-color: #484848;
+    -fx-text-fill: white;
+    -fx-font-size: 60px;
+}
